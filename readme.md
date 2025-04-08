@@ -1,2 +1,5 @@
 Link to paper.
 https://www.overleaf.com/2444229557shgstbstbfrs#cd548e 
+
+Abstract (Draft):
+Pneumonia remains as one of the leading causes of death worldwide. In response to address this issue, our group has researched a potential solution to accurately determine pneumonia in individuals. The dataset we chose to work on is the 2018 RSNA Pneumonia Detection Challenge dataset. The dataset consists of 30,000 frontal view chest radiographs, with a 4,500 subset of test images. We explore deep learning methods, particularly the usage of convolutional neural networks (CNNs). Our approach to this problem involves creating the entire pipeline of a deep learning model, with implementations of data augmentation through the use of image alterations that do not create synthetic images, but rather transformations of existing images, layer turning, and architecture design specializing in object detection and classification. This study provides a contribution to the growing usage of deep learning in medicine. Most importantly, we expect the model to perform significantly enough to be used as a tool to detect pneumonia for individuals.
